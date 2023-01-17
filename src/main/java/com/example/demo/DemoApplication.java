@@ -19,4 +19,4 @@ public class DemoApplication {
     return "Hello Azure!";
 }
 	}
-}
+
